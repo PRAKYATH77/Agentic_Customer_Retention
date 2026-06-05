@@ -1,0 +1,23 @@
+# Node / React
+node_modules/
+dist/
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+.venv/
+
+# Large Datasets
+olist/
+outputs/*.csv
+outputs/*.json
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
