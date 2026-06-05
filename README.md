@@ -109,4 +109,4 @@ npm run dev
 Open your browser to `http://localhost:5173` to view the application.
 
 ---
-*Built with ❤️ for advanced customer intelligence.*
+
